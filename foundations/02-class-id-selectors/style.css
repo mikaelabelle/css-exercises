@@ -1,0 +1,19 @@
+.classOne {
+    background-color: rgb(243, 169, 181);
+    font-family: Verdana, DejaVu, Sans, sans-serif;
+}
+
+.classThree {
+    font-size: 24px;
+}
+
+#numTwo {
+    color: rgb(0, 0, 200);
+    font-size: 36px;
+}
+
+#numFour {
+    background-color: rgb(129, 245, 129);
+    font-weight: 700;
+    font-size: 24px;
+}
